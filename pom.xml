@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.wso2.af</groupId>
   <artifactId>www21</artifactId>
-  <version>SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>war</packaging>
   <name>www21 Maven Webapp</name>
   <url>http://maven.apache.org</url>
